@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack development<Mean-stack/>
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me mail@ - manojmessi1020@gmail.com
-- so Far completed the Front end learning part(HTML, CSS, JAVASCRIPT, BOOTSTRAP, ANGULAR), backend is in progress.......
+- so far completed the Front end learning part(HTML, CSS, JAVASCRIPT, BOOTSTRAP, ANGULAR), backend is in progress.......
 - Currently working on some personal (clone) UI/UX projects.
 
 <!---
