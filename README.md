@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj-devloper
 - 👀 I’m interested in development pesonally as well in technology
-- 🌱 I’m currently learning Full stack development<Mean-stack/>
+- 🌱 I’m currently learning Full stack development <Mean-stack/>
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me mail@ - manojmessi1020@gmail.com
 - so far completed the Front end learning part(HTML, CSS, JAVASCRIPT, BOOTSTRAP, ANGULAR), backend is in progress.......
