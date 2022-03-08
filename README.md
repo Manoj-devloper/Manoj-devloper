@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Manoj-devloper
-- 👀 I’m interested in 
+- 👀 I’m interested in development pesonally as well in technology
 - 🌱 I’m currently learning Full stack development<Mean-stack/>
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me mail@ - manojmessi1020@gmail.com
+- so Far completed the Front end learning part(HTML, CSS, JAVASCRIPT, BOOTSTRAP, ANGULAR), backend is in progress.......
+- Currently working on some personal (clone) UI/UX projects.
 
 <!---
 Manoj-devloper/Manoj-devloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
